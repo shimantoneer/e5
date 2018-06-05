@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.hill-rom.com.au/usa/");
+header("Location: http://www.tablecraft.com:8080/storefrontCommerce/categorybrowse.do");
 die();
 ?>
